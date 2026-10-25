@@ -57,7 +57,7 @@ git checkout -b <branch_name>
 Read these files before writing the spec:
 - `CLAUDE.md` — roadmap, conventions, schema
 - All files in `.claude/specs/` — avoid duplicating existing specs
-
+- docs foler where relevent service md file is created
 Check `CLAUDE.md` to confirm the requested step is not already
 marked complete. If it is, warn the user and stop.
 
